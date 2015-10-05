@@ -1,0 +1,17 @@
+permalink: /:title.html
+title: Justhink
+description: "Justhink's Blog"
+keywords: programming, data, machine learning, tech, justhink
+production_url: http://justhink.github.com
+pygments: false
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables","with_toc_data", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+author :
+  name : Justhink
+  github : justhink
+  twitter : cosyhe
+  email: cosyhe@gmail.com
+  linkedin: cosyhe
+disqus_shortname: cosyhe
+analytics: UA-36923510-1
